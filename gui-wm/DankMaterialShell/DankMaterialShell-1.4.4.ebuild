@@ -22,7 +22,6 @@ DEPEND="gui-apps/quickshell
 	gui-apps/wl-clipboard
 	x11-misc/matugen
 	gui-wm/niri
-	#dev-qt/qtmultimedia:6
 	sys-process/dgop
 	sys-apps/danksearch
 	gui-apps/xwayland-satellite"
