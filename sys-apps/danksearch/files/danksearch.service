@@ -1,0 +1,10 @@
+[Unit]
+Description=DankSearch Survival Daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/danksearch
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
